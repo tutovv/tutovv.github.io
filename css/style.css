@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    background: url("../img/pattern.png");
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    line-height: 1.5;
+    font-size: 18px;
+}
+
+.card {
+    width: 600px;
+    margin: 30px auto;
+    padding: 20px;
+    background-color: whitesmoke;
+    box-shadow: 5px 5px 10px gray;
+    border-radius: 10px;
+}
+
+.card-photo {
+    width: 200px;
+    display: block;
+    margin: 0 auto;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+.card-title {
+    font-size: 20px;
+    text-align: center;
+    color: green;
+}
+
+.card-text {
+    font-size: 12px;
+}
+
+.card-subtitle {
+    font-size: 18px;
+    color: green;
+}
+
+.card-list {
+    font-size: 12px;
+    color: black;
+    padding-left: 0;
+    list-style-position: inside;
+}
+
+.card-ref {
+    font-size: 12px;
+}
